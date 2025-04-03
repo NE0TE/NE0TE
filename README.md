@@ -3,7 +3,7 @@
   <br>
   <br>
   
-  <a href="https://git.io/typing-svg"><img align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=130&lines=Tech+Stack" alt="Typing SVG" /></a> <img align="right" src="http://mazandi.herokuapp.com/api?handle=neote&theme=cold"/> <br> <br>
+  <img align="right" src="http://mazandi.herokuapp.com/api?handle=neote&theme=cold"/> <a href="https://git.io/typing-svg"><img align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=130&lines=Tech+Stack" alt="Typing SVG" /></a> <br> <br>
   
   <img align="left" src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img align="left" src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" /> <img align="left" src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /> <br>
   
