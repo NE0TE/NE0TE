@@ -1,5 +1,4 @@
 <div>
-  <img align="center" src ="https://capsule-render.vercel.app/api?type=speech&height=300&color=7FB3FA&text=NEOTE%20-S&reversal=true&textBg=false&animation=twinkling&fontColor=FFFFFF"width=100%,height=100%>
   <br>
   <br>
   
